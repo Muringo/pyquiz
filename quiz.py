@@ -40,7 +40,7 @@ def remove(mystring):
 
 def squares():
     d=dict()
-    for x in range(1,16):
+    for x in range(149,159):
         d[x]=x**2
         print(d)  
 
